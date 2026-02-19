@@ -1,48 +1,37 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=1000&lines=Initializing+Integration+Control+Panel...;Secure+Session+Established.;User:+Jestoni+Castro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=900&lines=Integration+Engineering+Dashboard;Jestoni+Castro;Data+Engineer" />
 </p>
 
 ---
 
-# 🖥 INTEGRATION CONTROL PANEL
+# 🖥 SYSTEM OVERVIEW
 
 <table>
 <tr>
 <td width="50%">
 
-### 👤 USER PROFILE
+### 👤 PROFILE
 
 ```bash
-Name: Jestoni Castro
-Role: Data Engineer
-Focus: Integration Applications
-Experience: 2024 - Present
-```
-
-```bash
-Core Work:
-- Building integration apps
-- Transferring records between systems
-- Data mapping & transformation
-- Data visualization
+Name        : Jestoni Castro
+Role        : Data Engineer
+Company     : Aidea
+Email       : j.castro@aidea.co
+LinkedIn    : linkedin.com/in/jestoni-castro
+Experience  : 2024 - Present
 ```
 
 </td>
 <td width="50%">
 
-### ⚙ SYSTEM MODULES
+### 🎯 CORE RESPONSIBILITIES
 
 ```bash
-[ACTIVE] SQL Query Processing
-[ACTIVE] Python Automation
-[ACTIVE] API / System Connectors
-[ACTIVE] Data Validation Layer
-[ACTIVE] Visualization Engine
-```
-
-```bash
-System Status: STABLE
-All connectors operational.
+- Building integration applications
+- Transferring records across systems
+- Data mapping and transformation
+- API connectivity and automation
+- Data visualization and reporting
 ```
 
 </td>
@@ -51,41 +40,42 @@ All connectors operational.
 
 ---
 
-## 📡 LIVE OPERATION LOG
+# ⚙ TECHNICAL CAPABILITIES
 
 ```bash
-> connecting to source system...
-> fetching records...
-> validating structure...
-> mapping fields...
-> transforming data...
-> transferring payload...
-> updating dashboard...
-> process completed successfully.
+Database        : SQL, Query Optimization
+Programming     : Python
+Integration     : API Connectors, System-to-System Transfers
+Data Handling   : Mapping, Validation, Transformation
+Visualization   : Reporting & Dashboard Creation
+Tools           : Git, Docker, Enterprise Systems
 ```
 
 ---
 
-## 📊 SYSTEM SNAPSHOT
+# 📊 DEVELOPMENT METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
-
----
-
-## 🟢 LIVE MATRIX STREAM
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="800">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
+# 📡 CURRENT FOCUS
+
+```bash
+> Strengthening integration architecture
+> Enhancing automation workflows
+> Improving system reliability
+> Expanding infrastructure knowledge
+```
+
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Awaiting+Next+Integration+Task...;Monitoring+Enterprise+Systems..." />
+  <sub>Professional Integration Engineering • Enterprise Systems • Continuous Improvement</sub>
 </p>
