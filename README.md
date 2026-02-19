@@ -1,17 +1,17 @@
-<h1 align="center" style="color:#2F81F7;">⚙️ Integration Engineering Dashboard</h1>
+<h1 align="center" style="color:#2F81F7;">📊 Data Integration Dashboard</h1>
 <h3 align="center" style="color:#888;">Jestoni Castro | Data Engineer | Aidea</h3>
 
 <p align="center">
-  <sub>Professional Enterprise Systems Integration • Continuous Improvement</sub>
+  <sub>Enterprise Systems Integration • Data Visualization • Continuous Improvement</sub>
 </p>
 
 ---
 
+## 👤 Profile
+
 <table width="100%" style="background:#1E1E1E; color:#FFFFFF; padding:15px; border-radius:10px;">
 <tr>
-<td width="50%" valign="top" style="padding:10px;">
-
-<h3>👤 Profile</h3>
+<td style="padding:10px;">
 <pre style="background:#2A2A2A; padding:10px; border-radius:6px;">
 Name       : Jestoni Castro
 Role       : Data Engineer
@@ -20,20 +20,35 @@ Email      : <a href="mailto:j.castro@aidea.co" style="color:#2F81F7;">j.castro@
 LinkedIn   : <a href="https://www.linkedin.com/in/Jestoni-Castro" style="color:#2F81F7;">Jestoni Castro</a>
 Experience : 2024 - Present
 </pre>
+</td>
+</tr>
+</table>
 
-<h3>🎯 Core Responsibilities</h3>
+---
+
+## 🎯 Core Responsibilities
+
+<table width="100%" style="background:#1E1E1E; color:#FFFFFF; padding:15px; border-radius:10px;">
+<tr>
+<td style="padding:10px;">
 <pre style="background:#2A2A2A; padding:10px; border-radius:6px;">
 - Building integration applications
 - Transferring records between systems
-- Data mapping and transformation
-- API connectivity and automation
+- Data mapping & transformation
+- API connectivity & automation
 - Data visualization and reporting
 </pre>
-
 </td>
-<td width="50%" valign="top" style="padding:10px;">
+</tr>
+</table>
 
-<h3>⚙ Technical Capabilities</h3>
+---
+
+## ⚙ Technical Capabilities
+
+<table width="100%" style="background:#1E1E1E; color:#FFFFFF; padding:15px; border-radius:10px;">
+<tr>
+<td style="padding:10px;">
 <pre style="background:#2A2A2A; padding:10px; border-radius:6px;">
 Database      : SQL, Query Optimization
 Programming   : Python
@@ -42,34 +57,30 @@ Data Handling : Mapping, Validation, Transformation
 Visualization : Reporting & Dashboard Creation
 Tools         : Git, Docker, Enterprise Systems
 </pre>
-
-<h3>📡 Current Focus</h3>
-<pre style="background:#2A2A2A; padding:10px; border-radius:6px;">
-> Strengthening integration architecture
-> Enhancing automation workflows
-> Improving system reliability
-> Expanding infrastructure knowledge
-</pre>
-
 </td>
 </tr>
 </table>
 
 ---
 
-<h3 style="color:#2F81F7;">📊 GitHub Metrics</h3>
+## 📊 Tableau-Style Dashboard Mockup
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+  <!-- Replace these with screenshots of your Tableau dashboards or charts -->
+  <img src="https://raw.githubusercontent.com/your-repo/assets/main/dashboard_overview.png" width="700" alt="Integration Overview Dashboard">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/your-repo/assets/main/data_transfer_chart.png" width="700" alt="Data Transfer Metrics">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-repo/assets/main/visualization_summary.png" width="700" alt="Data Visualization Panels">
 </p>
 
 ---
 
-<h3 style="color:#2F81F7;">🖥️ Live Integration Overview</h3>
+## 📡 Active Processes & Logs
 
 <table width="100%" style="background:#1E1E1E; color:#FFFFFF; padding:15px; border-radius:10px;">
 <tr>
@@ -77,17 +88,35 @@ Tools         : Git, Docker, Enterprise Systems
 <pre style="background:#2A2A2A; padding:10px; border-radius:6px;">
 > Connecting to source systems...
 > Fetching records...
-> Validating data structures...
-> Mapping fields...
-> Transforming values...
-> Transferring payloads...
-> Updating dashboards...
-> Process completed successfully.
+> Mapping and transforming data...
+> Transferring to target system...
+> Updating visual dashboards...
+> Process completed successfully
 </pre>
 </td>
 </tr>
 </table>
 
+---
+
+## 📈 Key Metrics
+
+<table width="100%" style="background:#1E1E1E; color:#FFFFFF; padding:15px; border-radius:10px;">
+<tr>
+<td style="padding:10px;">
+<pre style="background:#2A2A2A; padding:10px; border-radius:6px;">
+- Integration Apps Completed   : 12
+- Records Transferred          : 25,000+
+- API Endpoints Connected      : 8
+- Visual Dashboards Created    : 5
+- Data Mapping Accuracy        : 98%
+</pre>
+</td>
+</tr>
+</table>
+
+---
+
 <p align="center">
-  <sub>📈 Continuous Integration | Enterprise Systems | Data Visualization</sub>
+  <sub>Professional Integration Engineering • Enterprise Systems • Data Visualization</sub>
 </p>
