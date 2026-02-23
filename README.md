@@ -2,7 +2,7 @@
 <h3 align="center">Jestoni Castro • Data Engineer • Aidea</h3>
 
 <p align="center">
-Enterprise Systems Integration • Data Pipelines • Automation • Visualization
+Enterprise Systems Integration • Data Pipelines • Automation • Data Visualization
 </p>
 
 ---
@@ -13,14 +13,14 @@ Enterprise Systems Integration • Data Pipelines • Automation • Visualizati
 Name: Jestoni Castro
 Role: Data Engineer
 Company: Aidea
-Focus: Enterprise Integration & Data Automation
+Focus: Enterprise System Integration & Automation
 Experience: 2024 - Present
 Location: Philippines
 ```
 
 ---
 
-## 📊 GitHub Analytics
+# 🚀 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jestonio22&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
@@ -37,76 +37,97 @@ Location: Philippines
 
 ---
 
-## ⚙️ Core Technical Capabilities
+# ⚙️ Technical Skills Matrix
 
-<table width="100%">
-<tr>
-<td width="33%">
+### 💾 Database Engineering
+![SQL](https://img.shields.io/badge/SQL-Advanced-2F81F7?style=for-the-badge&logo=postgresql&logoColor=white)
+![Query Optimization](https://img.shields.io/badge/Query_Optimization-Expert-1F6FEB?style=for-the-badge)
 
-### Database & Data Engineering
-- SQL Optimization  
-- Query Tuning  
-- Data Modeling  
-- Performance Monitoring  
+### 🐍 Programming & Automation
+![Python](https://img.shields.io/badge/Python-Advanced-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Automation](https://img.shields.io/badge/Automation-Scripts-3776AB?style=for-the-badge)
 
-</td>
-<td width="33%">
-
-### Programming & Automation
-- Python  
-- Automation Scripts  
-- Data Processing  
-- Backend Logic  
-
-</td>
-<td width="33%">
-
-### Integration & Systems
-- REST APIs  
-- System Connectors  
-- ETL Pipelines  
-- Enterprise Transfers  
-
-</td>
-</tr>
-</table>
+### 🔗 Integration & APIs
+![REST API](https://img.shields.io/badge/REST_API-Integration-00C853?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-43A047?style=for-the-badge)
 
 ---
 
-## 📈 Operational Metrics
+# 📊 Skill Progress Dashboard
 
-<table width="100%">
-<tr>
-<td align="center">
+<p align="center">
 
-### Integration Applications
-███████████░ 12
+SQL  
+<img src="https://progress-bar.dev/90/?title=SQL&width=500&color=2F81F7"/>
 
-</td>
-<td align="center">
+Python  
+<img src="https://progress-bar.dev/85/?title=Python&width=500&color=FFD43B"/>
 
-### Records Transferred
-█████████████░ 25,000+
+System Integration  
+<img src="https://progress-bar.dev/88/?title=Integration&width=500&color=00C853"/>
 
-</td>
-<td align="center">
+Data Engineering  
+<img src="https://progress-bar.dev/87/?title=Data_Engineering&width=500&color=8E24AA"/>
 
-### Data Mapping Accuracy
-████████████░ 98%
-
-</td>
-<td align="center">
-
-### Visual Dashboards
-███████░░ 5
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-## 🔄 Active Integration Pipeline
+# 📅 Professional Timeline
+
+```text
+2024 - Present
+│
+├── Data Engineer @ Aidea
+│   ├─ Built enterprise integration applications
+│   ├─ Automated SAP-APEX & SAP-TCP transfers
+│   ├─ Implemented data validation pipelines
+│   └─ Designed visualization dashboards
+│
+2023
+│
+├── Advanced SQL & Backend Development
+│   ├─ Query Optimization Projects
+│   └─ Automation Tooling Development
+```
+
+---
+
+# 📌 Featured Projects
+
+### 🔹 Enterprise Integration Pipeline
+Automated cross-system record transfers with validation and monitoring.
+- ETL logic implementation  
+- API connectivity  
+- Error handling & logging  
+
+---
+
+### 🔹 Data Warehouse Optimization
+Optimized complex SQL queries improving performance efficiency.
+- Query refactoring  
+- Index optimization  
+- Data restructuring  
+
+---
+
+### 🔹 Automation Toolkit
+Python-based automation scripts for data validation and transformation.
+
+---
+
+# 📈 Operational Metrics
+
+| Metric | Status |
+|--------|--------|
+| Integration Applications | ███████████░ 12 |
+| Records Transferred | █████████████░ 25,000+ |
+| Data Mapping Accuracy | █████████████░ 98% |
+| Dashboards Built | ███████░░ 5 |
+
+---
+
+# 🔄 Active Integration Pipeline
 
 ```bash
 [✓] Connecting to source systems
@@ -120,30 +141,22 @@ Location: Philippines
 
 ---
 
-## 🏗 Enterprise Stack
-
-- Data Warehousing  
-- API Automation  
-- SAP-APEX / SAP-TCP Integrations  
-- Data Validation & Governance  
-- Monitoring & Logging  
-- Continuous Improvement Engineering  
-
----
-
-## 🌐 Professional Links
+# 🌐 Professional Links
 
 <p align="center">
   <a href="mailto:j.castro@aidea.co">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-J.Castro@aidea.co-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jestoni-castro-090493255/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-JestoniCastro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Jestonio22">
+    <img src="https://img.shields.io/badge/GitHub-Jestonio22-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-Professional Integration Engineering • Enterprise Systems • Data Visualization • Automation
+Professional Integration Engineering • Enterprise Systems • Automation • Visualization
 </p>
