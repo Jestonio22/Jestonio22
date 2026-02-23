@@ -23,15 +23,15 @@ Location: Philippines
 # 🚀 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jestonio22&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jestonio22&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jestonio22&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jestonio22&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jestonio22&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jestonio22&theme=github-dark&hide_border=true&cache_seconds=86400" alt="Activity Graph" />
 </p>
 
 ---
