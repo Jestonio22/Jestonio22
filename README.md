@@ -2,7 +2,7 @@
 <h3 align="center">Jestoni Castro • Data Engineer • Aidea</h3>
 
 <p align="center">
-Enterprise Systems Integration • Data Pipelines • Automation • Data Visualization
+Enterprise Systems Integration • Data Pipelines • Automation • Continuous Learning
 </p>
 
 ---
@@ -13,7 +13,7 @@ Enterprise Systems Integration • Data Pipelines • Automation • Data Visual
 Name: Jestoni Castro
 Role: Data Engineer
 Company: Aidea
-Focus: Enterprise System Integration & Automation
+Level: Intermediate (Continuously Improving)
 Experience: 2024 - Present
 Location: Philippines
 ```
@@ -37,15 +37,15 @@ Location: Philippines
 
 ---
 
-# ⚙️ Technical Skills Matrix
+# ⚙️ Technical Skills
 
-### 💾 Database Engineering
-![SQL](https://img.shields.io/badge/SQL-Advanced-2F81F7?style=for-the-badge&logo=postgresql&logoColor=white)
-![Query Optimization](https://img.shields.io/badge/Query_Optimization-Expert-1F6FEB?style=for-the-badge)
+### 💾 Database & Data
+![SQL](https://img.shields.io/badge/SQL-Developing-2F81F7?style=for-the-badge&logo=postgresql&logoColor=white)
+![Query Optimization](https://img.shields.io/badge/Query_Optimization-Improving-1F6FEB?style=for-the-badge)
 
 ### 🐍 Programming & Automation
-![Python](https://img.shields.io/badge/Python-Advanced-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![Automation](https://img.shields.io/badge/Automation-Scripts-3776AB?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Developing-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Automation](https://img.shields.io/badge/Automation-Scripting-3776AB?style=for-the-badge)
 
 ### 🔗 Integration & APIs
 ![REST API](https://img.shields.io/badge/REST_API-Integration-00C853?style=for-the-badge)
@@ -58,16 +58,16 @@ Location: Philippines
 <p align="center">
 
 SQL  
-<img src="https://progress-bar.dev/90/?title=SQL&width=500&color=2F81F7"/>
+<img src="https://progress-bar.dev/75/?title=SQL&width=500&color=2F81F7"/>
 
 Python  
-<img src="https://progress-bar.dev/85/?title=Python&width=500&color=FFD43B"/>
+<img src="https://progress-bar.dev/70/?title=Python&width=500&color=FFD43B"/>
 
 System Integration  
-<img src="https://progress-bar.dev/88/?title=Integration&width=500&color=00C853"/>
+<img src="https://progress-bar.dev/72/?title=Integration&width=500&color=00C853"/>
 
 Data Engineering  
-<img src="https://progress-bar.dev/87/?title=Data_Engineering&width=500&color=8E24AA"/>
+<img src="https://progress-bar.dev/70/?title=Data_Engineering&width=500&color=8E24AA"/>
 
 </p>
 
@@ -76,43 +76,51 @@ Data Engineering
 # 📅 Professional Timeline
 
 ```text
-2024 - Present
+2024
 │
-├── Data Engineer @ Aidea
-│   ├─ Built enterprise integration applications
-│   ├─ Automated SAP-APEX & SAP-TCP transfers
-│   ├─ Implemented data validation pipelines
-│   └─ Designed visualization dashboards
+├── Joined Aidea as Data Engineer
+│   ├─ Supported enterprise system integrations
+│   ├─ Assisted in SAP data transfers
+│   └─ Worked on SQL query improvements
 │
-2023
+2025
 │
-├── Advanced SQL & Backend Development
-│   ├─ Query Optimization Projects
-│   └─ Automation Tooling Development
+├── Expanded Integration Responsibilities
+│   ├─ Built automation scripts
+│   ├─ Implemented data validation logic
+│   ├─ Optimized transfer processes
+│   └─ Contributed to dashboard reporting
+│
+2026 - Present
+│
+├── Continuous Skill Enhancement
+│   ├─ Strengthening backend & automation skills
+│   ├─ Improving system monitoring processes
+│   └─ Enhancing data engineering workflows
 ```
 
 ---
 
 # 📌 Featured Projects
 
-### 🔹 Enterprise Integration Pipeline
-Automated cross-system record transfers with validation and monitoring.
-- ETL logic implementation  
-- API connectivity  
-- Error handling & logging  
+### 🔹 Enterprise Integration Support
+Worked on cross-system record transfers with validation and monitoring.
+- Assisted in ETL processes  
+- API connectivity implementation  
+- Logging & validation support  
 
 ---
 
-### 🔹 Data Warehouse Optimization
-Optimized complex SQL queries improving performance efficiency.
-- Query refactoring  
-- Index optimization  
-- Data restructuring  
+### 🔹 SQL Optimization Improvements
+Improved query performance and data accuracy.
+- Query restructuring  
+- Index adjustments  
+- Data cleanup processes  
 
 ---
 
-### 🔹 Automation Toolkit
-Python-based automation scripts for data validation and transformation.
+### 🔹 Automation Scripts
+Developed Python scripts for data validation and structured transformation.
 
 ---
 
@@ -120,10 +128,10 @@ Python-based automation scripts for data validation and transformation.
 
 | Metric | Status |
 |--------|--------|
-| Integration Applications | ███████████░ 12 |
-| Records Transferred | █████████████░ 25,000+ |
-| Data Mapping Accuracy | █████████████░ 98% |
-| Dashboards Built | ███████░░ 5 |
+| Integration Applications Supported | █████████░░ |
+| Records Processed | ███████████░ |
+| Data Mapping Accuracy | ███████████░ |
+| Dashboards Contributed | ███████░░ |
 
 ---
 
@@ -136,7 +144,7 @@ Python-based automation scripts for data validation and transformation.
 [✓] Validating mappings
 [✓] Transferring to destination
 [✓] Syncing dashboards
-[✓] Process completed successfully
+[✓] Continuous monitoring
 ```
 
 ---
@@ -158,5 +166,5 @@ Python-based automation scripts for data validation and transformation.
 ---
 
 <p align="center">
-Professional Integration Engineering • Enterprise Systems • Automation • Visualization
+Intermediate Data Engineer • Continuous Improvement • Enterprise Systems • Automation
 </p>
