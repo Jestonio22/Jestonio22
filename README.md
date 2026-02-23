@@ -13,7 +13,7 @@ Enterprise Systems Integration • Data Pipelines • Automation • Continuous 
 Name: Jestoni Castro
 Role: Data Engineer
 Company: Aidea
-Level: Intermediate (Continuously Improving)
+Level: Intermediate
 Experience: 2024 - Present
 Location: Philippines
 ```
